@@ -1,7 +1,12 @@
 # STM32 Smart v2 Skeleton
-This repository contains a STM32CubeMX (STM32 Cube MX) profile and generated source code for STM32 Smart v2 board
+This repository contains a STM32CubeMX (STM32 Cube MX) profile and generated source code
+for STM32 Smart v2 board with all peripheria configured.
+
 (STM32F103C8T6 ARM STM32 Minimum System Development Board from noname chinese manufacturer) 
-with all peripheria configured.
+
+This one
+
+![STM32 Smart v2](https://raw.githubusercontent.com/alera/STM32_Smart_v2_Skeleton/master/Docs/02.jpg)
 
 ## Usage
 Import and use it with SW4STM32 or Clion just as usual;
