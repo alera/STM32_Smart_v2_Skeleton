@@ -19,3 +19,6 @@ You can build it from console by running
 Install OpenOCD + STM32CubeMX support for CLion plugin (if not installed)
 Change settings as described on the plugin page https://github.com/elmot/clion-embedded-arm
 using STM32_Smart_v2_OpenOCD.cfg file as Board Config File
+
+## The board
+You can found some info about the board here http://wiki.stm32duino.com/index.php?title=STM32_Smart_V2.0
